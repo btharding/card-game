@@ -1,4 +1,7 @@
 # card-game
+
+### 🔗 Use at [https://btharding.github.io/card-game/](https://btharding.github.io/card-game/) ###
+
 A simple platform for basic customisable card games to be played in the browser.
 
 Players and cards can be created in the popout side menu.
