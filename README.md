@@ -1,24 +1,12 @@
 # card-game
+A simple platform for basic customisable card games to be played in the browser.
 
-## Project setup
+Players and cards can be created in the popout side menu.
+Card decks can be downloaded or imported from this side menu. An example deck is included ```deck.json```.
+Numbered wildcards can be added to card texts to include player names in the card text.
+
+## Project setup and compilation
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
