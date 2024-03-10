@@ -116,14 +116,15 @@ export default {
     }
 
     .card-rear {
-        border: 3px solid #271f41;
-        background-color: #000f09;
+        border: 3px solid #FFFFEE;
+        background-color: #C72B1E;
+        border-radius: 8px;
     }
 
     .card-detail {
-        background-color: #d0cfd7;
-        border: 3px solid #271f41;
-        color: #271f41;
+        background-color: #FFFFEE;
+        color: #110011;
         transform: rotateY(-180deg);
+        border-radius: 8px;
     }
 </style>

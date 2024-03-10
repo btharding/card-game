@@ -1,14 +1,14 @@
 <template>
-  <ResizablePane/>
+  <MainPane/>
 </template>
 
 <script>
-import ResizablePane from './components/ResizablePane.vue'
+import MainPane from './components/MainPane.vue'
 
 export default {
   name: 'App',
   components: {
-    ResizablePane
+    MainPane
   }
 }
 </script>
